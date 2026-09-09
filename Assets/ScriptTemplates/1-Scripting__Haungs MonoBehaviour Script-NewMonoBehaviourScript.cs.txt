@@ -1,0 +1,25 @@
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    // Fields
+    #NOTRIM#
+    // Properties
+    #NOTRIM#
+    // Events / Delegates
+    #NOTRIM#
+    // Monobehaviour Methods (Awake, Start, Update, ...)
+    #NOTRIM#
+    void Update()
+    {
+        #NOTRIM#
+    }
+    #NOTRIM#
+    // Public Methods
+    #NOTRIM#
+    // Private Methods
+    #NOTRIM#
+}
