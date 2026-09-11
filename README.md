@@ -1,6 +1,6 @@
 # Andi & Emma
 
-A narrative-driven 2D platformer about love, survival, and difficult choices at the very start of the end of the world.
+A narrative-driven 2.5D platformer about love, survival, and difficult choices at the very start of the end of the world.
 
 ## High Concept
 
@@ -8,7 +8,7 @@ Set in the first days of a post-apocalyptic world, the game follows Andi as he n
 
 ## Genre
 
-- 2D story-rich platformer
+- 2.5D story-rich platformer
 - Light survival systems
 - Exploration and environmental storytelling
 
